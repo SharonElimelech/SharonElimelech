@@ -33,20 +33,6 @@ Currently focused on deploying intelligent systems by integrating powerful APIs 
   <img src="https://img.shields.io/badge/OpenAI_API-412991?style=for-the-badge&logo=openai&logoColor=white" alt="OpenAI API" />
 </p>
 
----
-
-## 📊 GITHUB IMPACT
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=SharonElimelech&show_icons=true&theme=dark&hide_border=false" alt="GitHub Stats" />
-</div>
-
-<div align="center">
-  <img src="https://github-readme-trophies.vercel.app/?username=SharonElimelech&theme=dark&no-frame=false&margin-w=5&margin-h=5" alt="GitHub Trophies" />
-</div>
-
----
-
 ## 📬 CONNECT
 
 <p align="left">
