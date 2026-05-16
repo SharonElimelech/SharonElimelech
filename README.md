@@ -1,27 +1,28 @@
-# SHARON ELIMELECH
+# Hi there, I'm Sharon Elimelech 👋
 
 <div align="center">
-  <img src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExZ3g5OGdzbXpsZDN6YjNuY3gxM2I3bm15dW96eG5zZ3VlNDN4ZTZ5ZiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/Q84mR022yY6263kG1f/giphy.gif" alt="Abstract Code and Connection GIF" width="800" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=007EC6&width=435&lines=Computer+Science+Student;AI+%26+Machine+Learning+Enthusiast;Math+Educator+%26+Problem+Solver;Building+Smart+Automations" alt="Typing SVG" />
 </div>
 
-<br />
+<br/>
 
-## 🚀 Minimalist. Algorithmic. Impactful.
+## 👨‍💻 About Me
+- 🎓 I'm currently studying **Computer Science at the Holon Institute of Technology (HIT)**.
+- 🧠 Passionate about **Algorithms, Data Science, and Machine Learning**.
+- 🧮 I have a strong analytical background as a **Mathematics Educator**.
+- ⚡ In my free time, I enjoy developing web projects, exploring API automations, and high-performance PC gaming.
 
-Focusing on the architecture of efficient algorithmic design and modern user experiences. Crafting scalable solutions using a streamlined technical toolkit.
-
----
-
-## 🛠️ TECHNICAL ARSENAL
-
+## 🛠️ Tech Stack & Tools
 <p align="left">
   <img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" alt="Python" />
+  <img src="https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white" alt="C++" />
   <img src="https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white" alt="Next.js" />
   <img src="https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white" alt="Tailwind CSS" />
+  <img src="https://img.shields.io/badge/WordPress-%23117B85.svg?style=for-the-badge&logo=WordPress&logoColor=white" alt="WordPress" />
+  <img src="https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
 </p>
 
----
-
+## 📊 GitHub Stats
 <div align="center">
-  <img src="https://github-readme-trophies.vercel.app/?username=SharonElimelech&theme=dark&no-frame=false&margin-w=5&margin-h=5" alt="GitHub Trophies" />
+  <img src="https://github-readme-stats.vercel.app/api?username=SharonElimelech&show_icons=true&theme=radium&hide_border=true" alt="Sharon's GitHub Stats" />
 </div>
