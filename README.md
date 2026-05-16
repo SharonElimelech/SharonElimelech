@@ -1,7 +1,7 @@
 # ⚡ SHARON ELIMELECH ⚡
 
 <div align="center">
-  <img src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExMjE1aWlsM3UzMnR0NWRtYXlveWhreGk1N2lzZG1uMzE4ZXhhOXoxNiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/L1R1tvI9svkIvyWYr/giphy.gif" alt="Futuristic Tech Coding and Data Loop" width="800" />
+  <img src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif" alt="Tech Coding Loop" width="800" />
 </div>
 
 <br />
