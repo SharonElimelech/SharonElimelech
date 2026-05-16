@@ -1,7 +1,7 @@
 # Hi there, I'm Sharon Elimelech 👋
 
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=007EC6&width=435&lines=Computer+Science+Student;AI+%26+Machine+Learning+Enthusiast;Math+Educator+%26+Problem+Solver;Building+Smart+Automations" alt="Typing SVG" />
+  <img src="[https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=007EC6&width=435&lines=Computer+Science+Student;AI+%26+Machine+Learning+Enthusiast;Math+Educator+%26+Problem+Solver;Building+Smart+Automations" alt="Typing SVG](https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExOTVpZjVkdDFtODd6ZDJ2ZGQzd3IzazB4eGZnZ2V6bWZ6aXo1ZXB6ciZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/L1R1tvI9svkIWwpVYr/giphy.gif" alt="Tech Coding GIF" width="800)" />
 </div>
 
 <br/>
