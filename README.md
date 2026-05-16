@@ -1,7 +1,7 @@
 # ⚡ SHARON ELIMELECH ⚡
 
 <div align="center">
-  <img src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExMjE1aWlsM3UzMnR0NWRtYXlveWhreGk1N2lzZG1uMzE4ZXhhOXoxNiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/L1R1tvI9svkIWwpVYr/giphy.gif" alt="Abstract Tech Coding Loop" width="800" />
+  <img src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExMjE1aWlsM3UzMnR0NWRtYXlveWhreGk1N2lzZG1uMzE4ZXhhOXoxNiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/L1R1tvI9svkIvyWYr/giphy.gif" alt="Futuristic Tech Coding and Data Loop" width="800" />
 </div>
 
 <br />
@@ -47,7 +47,7 @@ Currently focused on deploying intelligent systems by integrating powerful APIs 
 ## 📬 CONNECT
 
 <p align="left">
-  <a href="www.linkedin.com/in/sharon-elimelech" target="_blank">
+  <a href="https://www.linkedin.com/in/sharon-elimelech/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
 </p>
