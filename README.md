@@ -12,7 +12,7 @@
 
 <img align="right" src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif" width="380" alt="Coding animation">
 
-I design, build and deploy responsive web applications with **React, TypeScript and Node.js** — including **AI chatbots powered by the OpenAI API** — and take products from concept to production deployment.
+I design, build and deploy responsive web applications with **React, TypeScript and Node.js** — including **AI chatbots powered by LLM APIs (OpenAI, Anthropic Claude)** — and take products from concept to production deployment, including a bot running in production for a real business.
 
 - 🎓 3rd-year B.Sc. Computer Science @ **HIT — Holon Institute of Technology**
 - 💻 Passionate about clean, modular code and fast, scalable web experiences
@@ -52,7 +52,8 @@ I design, build and deploy responsive web applications with **React, TypeScript 
 | Project | Stack | Links |
 |---|---|---|
 | **Personal Portfolio Website** — responsive personal site, typed component architecture (40+ UI components), CI/CD on Vercel | React · TypeScript · Vite · Tailwind · shadcn/ui | [Live](https://sharon-elimelech.vercel.app) · [Code](https://github.com/SharonElimelech/portfolio) |
-| **AI Chatbots** — conversational chatbots integrating the OpenAI API into full-stack web apps: prompt design, conversation state, REST integration | JavaScript · Node.js · OpenAI API | — |
+| **WhatsApp AI Customer-Service Bot** 🟢 *in production for a real business* — receives WhatsApp messages via Meta Cloud API webhooks, answers with an LLM constrained to an approved knowledge base, and escalates to a human callback via tool-calling into automation webhooks. Webhook signature verification, async processing, conversation state management | Node.js · Express · WhatsApp Cloud API · Claude API | Private |
+| **Animated Website** — animated marketing site deployed on Cloudflare | Next.js · TypeScript | [Code](https://github.com/SharonElimelech/animated-website) |
 | **Bank Account Simulator** — banking-system simulator built with OOP principles: classes, inheritance, encapsulation | C++ | [Code](https://github.com/SharonElimelech/bank-simuletor) |
 
 ---
