@@ -1,0 +1,95 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 340" width="1200" height="340" role="img" aria-labelledby="t d">
+  <title id="t">Sharon Elimelech — Full-Stack &amp; AI Engineer</title>
+  <desc id="d">Building full-stack products with AI inside. Developer at Landly, CS at HIT, Shayetet 13 veteran.</desc>
+  <style>
+    .mono { font-family: ui-monospace, 'SF Mono', Menlo, Consolas, 'DejaVu Sans Mono', monospace; }
+    .display { font-family: 'Segoe UI', 'Helvetica Neue', Arial, sans-serif; font-weight: 800; letter-spacing: 6px; }
+
+    /* name: outline draws in, then the first line fills */
+    .draw { stroke-dasharray: 1400; stroke-dashoffset: 1400; animation: draw 1.8s cubic-bezier(0.23, 1, 0.32, 1) 0.2s forwards; }
+    .fill { fill-opacity: 0; animation: draw 1.8s cubic-bezier(0.23, 1, 0.32, 1) 0.2s forwards, fill 0.6s ease-out 1.3s forwards; }
+    @keyframes draw { to { stroke-dashoffset: 0; } }
+    @keyframes fill { to { fill-opacity: 1; } }
+
+    .rise { opacity: 0; transform: translateY(8px); animation: rise 0.6s cubic-bezier(0.23, 1, 0.32, 1) 1.1s forwards; }
+    @keyframes rise { to { opacity: 1; transform: translateY(0); } }
+
+    /* logo: slow constant spin + soft glow */
+    .spin { transform-box: fill-box; transform-origin: center; animation: spin 30s linear infinite; }
+    @keyframes spin { to { transform: rotate(360deg); } }
+    .glow { animation: glow 4s ease-in-out infinite alternate; }
+    @keyframes glow { from { opacity: 0.25; } to { opacity: 0.6; } }
+
+    /* terminal: 4 real facts, 4s each, typed one character at a time */
+    .line { opacity: 0; animation: 16s infinite; }
+    .l1 { animation-name: show1; } .l2 { animation-name: show2; } .l3 { animation-name: show3; } .l4 { animation-name: show4; }
+    @keyframes show1 { 0%, 24.9% { opacity: 1; } 25%, 100% { opacity: 0; } }
+    @keyframes show2 { 0%, 24.9% { opacity: 0; } 25%, 49.9% { opacity: 1; } 50%, 100% { opacity: 0; } }
+    @keyframes show3 { 0%, 49.9% { opacity: 0; } 50%, 74.9% { opacity: 1; } 75%, 100% { opacity: 0; } }
+    @keyframes show4 { 0%, 74.9% { opacity: 0; } 75%, 99.9% { opacity: 1; } 100% { opacity: 0; } }
+    .cover { animation: 16s infinite; }
+    .c1 { animation-name: type1; } .c2 { animation-name: type2; } .c3 { animation-name: type3; } .c4 { animation-name: type4; }
+    @keyframes type1 { 0% { transform: translateX(0); animation-timing-function: steps(43, end); } 9% { transform: translateX(559px); } 100% { transform: translateX(559px); } }
+    @keyframes type2 { 0%, 25% { transform: translateX(0); animation-timing-function: steps(47, end); } 34% { transform: translateX(611px); } 100% { transform: translateX(611px); } }
+    @keyframes type3 { 0%, 50% { transform: translateX(0); animation-timing-function: steps(48, end); } 59% { transform: translateX(624px); } 100% { transform: translateX(624px); } }
+    @keyframes type4 { 0%, 75% { transform: translateX(0); animation-timing-function: steps(43, end); } 84% { transform: translateX(559px); } 100% { transform: translateX(559px); } }
+    .caret { animation: blink 1s step-end infinite; }
+    @keyframes blink { 50% { opacity: 0; } }
+
+    @media (prefers-reduced-motion: reduce) {
+      .draw, .fill, .rise, .spin, .glow, .line, .cover, .caret { animation: none; }
+      .draw { stroke-dashoffset: 0; }
+      .fill { fill-opacity: 1; }
+      .rise { opacity: 1; transform: none; }
+      .l1 { opacity: 1; }
+      .c1 { transform: translateX(559px); }
+    }
+  </style>
+
+  <defs>
+    <pattern id="dots" width="28" height="28" patternUnits="userSpaceOnUse">
+      <circle cx="2" cy="2" r="1" fill="#FF2A2A" fill-opacity="0.07"/>
+    </pattern>
+    <radialGradient id="halo" cx="0.82" cy="0.35" r="0.55">
+      <stop offset="0" stop-color="#FF2A2A" stop-opacity="0.16"/>
+      <stop offset="1" stop-color="#FF2A2A" stop-opacity="0"/>
+    </radialGradient>
+    <radialGradient id="starGlow" cx="0.5" cy="0.5" r="0.5">
+      <stop offset="0" stop-color="#FF2A2A" stop-opacity="0.55"/>
+      <stop offset="1" stop-color="#FF2A2A" stop-opacity="0"/>
+    </radialGradient>
+    <clipPath id="term"><rect x="284" y="266" width="852" height="40"/></clipPath>
+  </defs>
+
+  <!-- canvas -->
+  <rect width="1200" height="340" rx="18" fill="#050505"/>
+  <rect width="1200" height="340" rx="18" fill="url(#dots)"/>
+  <rect width="1200" height="340" rx="18" fill="url(#halo)"/>
+  <rect x="0.5" y="0.5" width="1199" height="339" rx="18" fill="none" stroke="#FF2A2A" stroke-opacity="0.22"/>
+  <path d="M24 44V24h20M1176 44V24h-20M24 296v20h20M1176 296v20h-20" fill="none" stroke="#FF2A2A" stroke-opacity="0.45" stroke-width="1.5"/>
+
+  <!-- logo: the four-point star from the portfolio -->
+  <circle class="glow" cx="128" cy="140" r="78" fill="url(#starGlow)"/>
+  <g transform="translate(80 92) scale(3)">
+    <path class="spin" d="M16 0L20 12L32 16L20 20L16 32L12 20L0 16L12 12L16 0Z" fill="#FF2A2A"/>
+  </g>
+
+  <!-- name -->
+  <text class="display draw fill" x="240" y="122" font-size="66" fill="#F2F2F2" stroke="#F2F2F2" stroke-width="1.2">SHARON</text>
+  <text class="display draw" x="252" y="196" font-size="66" fill="none" stroke="#FF2A2A" stroke-width="1.8">ELIMELECH</text>
+  <text class="mono rise" x="244" y="236" font-size="17" letter-spacing="5" fill="#FF2A2A">FULL-STACK &amp; AI ENGINEER</text>
+
+  <!-- terminal -->
+  <rect x="240" y="262" width="900" height="48" rx="8" fill="#0B0B0B" stroke="#FFFFFF" stroke-opacity="0.07"/>
+  <text class="mono" x="262" y="292" font-size="21" fill="#FF2A2A">$</text>
+  <g class="mono" font-size="21" fill="#C9C9C9" clip-path="url(#term)">
+    <g class="line l1"><text x="290" y="292" textLength="559" lengthAdjust="spacingAndGlyphs">building full-stack products with AI inside</text>
+      <g class="cover c1"><rect x="290" y="268" width="660" height="36" fill="#0B0B0B"/><rect class="caret" x="292" y="273" width="11" height="24" fill="#FF2A2A"/></g></g>
+    <g class="line l2"><text x="290" y="292" textLength="611" lengthAdjust="spacingAndGlyphs">WhatsApp AI agent in production, answering 24/7</text>
+      <g class="cover c2"><rect x="290" y="268" width="660" height="36" fill="#0B0B0B"/><rect class="caret" x="292" y="273" width="11" height="24" fill="#FF2A2A"/></g></g>
+    <g class="line l3"><text x="290" y="292" textLength="624" lengthAdjust="spacingAndGlyphs">101,720 exercises, every answer checked by SymPy</text>
+      <g class="cover c3"><rect x="290" y="268" width="660" height="36" fill="#0B0B0B"/><rect class="caret" x="292" y="273" width="11" height="24" fill="#FF2A2A"/></g></g>
+    <g class="line l4"><text x="290" y="292" textLength="559" lengthAdjust="spacingAndGlyphs">developer @ Landly · CS @ HIT · Shayetet 13</text>
+      <g class="cover c4"><rect x="290" y="268" width="660" height="36" fill="#0B0B0B"/><rect class="caret" x="292" y="273" width="11" height="24" fill="#FF2A2A"/></g></g>
+  </g>
+</svg>

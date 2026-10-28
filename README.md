@@ -1,10 +1,16 @@
-# Sharon Elimelech
+<p align="center">
+  <img src="./assets/header.svg" width="100%" alt="Sharon Elimelech — Full-Stack & AI Engineer. Building full-stack products with AI inside.">
+</p>
 
-**Full-Stack & AI Engineer** — I build full-stack products with LLMs inside, and make sure the AI can be trusted.
+<p align="center">
+  <a href="https://sharon-elimelech.vercel.app"><img alt="Portfolio" src="https://img.shields.io/badge/Portfolio-FF2A2A?style=for-the-badge&logo=vercel&logoColor=white"></a>
+  <a href="https://www.linkedin.com/in/sharon-elimelech/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"></a>
+  <a href="https://sharon-elimelech.vercel.app/cv/Sharon_Elimelech_CV_EN.pdf"><img alt="CV (PDF)" src="https://img.shields.io/badge/CV-PDF-111111?style=for-the-badge&logo=adobeacrobatreader&logoColor=FF2A2A"></a>
+  <a href="mailto:aruitkh11@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-111111?style=for-the-badge&logo=gmail&logoColor=white"></a>
+</p>
 
-Full-Stack Developer at **Landly** · B.Sc. Computer Science student at **HIT** · Shayetet 13 veteran · Israel
-
-[LinkedIn](https://www.linkedin.com/in/sharon-elimelech/) · [Portfolio](https://sharon-elimelech.vercel.app) · [Email](mailto:aruitkh11@gmail.com)
+I build full-stack products with LLMs inside — and make sure the AI can be trusted: knowledge-base guardrails, verified outputs, dry-runs before anything goes live.
+Full-Stack Developer at **Landly** · B.Sc. Computer Science student at **HIT** · Shayetet 13 veteran · Israel.
 
 ## What I build
 
@@ -18,8 +24,8 @@ Full-Stack Developer at **Landly** · B.Sc. Computer Science student at **HIT** 
 
 ## Stack
 
-- **Languages:** TypeScript, JavaScript, Python, SQL, C++
-- **Frontend:** React, Next.js, Astro, Tailwind CSS, Electron
-- **Backend & data:** Node.js, Express, PostgreSQL, Supabase, SQLite, Cloudflare D1
-- **AI:** Claude, Gemini and OpenAI-compatible APIs · tool-calling agents · structured outputs · guardrails
-- **Ops:** GitHub Actions, Docker, Vercel, Cloudflare Workers, n8n, Terraform, AWS
+<p>
+  <img src="https://skillicons.dev/icons?i=ts,js,py,react,nextjs,astro,tailwind,nodejs,express,postgres,supabase,sqlite,electron,docker,githubactions,cloudflare,vercel,aws,terraform&perline=10&theme=dark" alt="TypeScript, JavaScript, Python, React, Next.js, Astro, Tailwind CSS, Node.js, Express, PostgreSQL, Supabase, SQLite, Electron, Docker, GitHub Actions, Cloudflare, Vercel, AWS, Terraform">
+</p>
+
+**AI:** Claude, Gemini and OpenAI-compatible APIs · tool-calling agents · structured outputs · guardrails · n8n automations
