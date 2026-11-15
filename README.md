@@ -12,6 +12,8 @@
 I build full-stack products with LLMs inside — and make sure the AI can be trusted: knowledge-base guardrails, verified outputs, dry-runs before anything goes live.
 Full-Stack Developer at **Landly** · B.Sc. Computer Science student at **HIT** · Shayetet 13 veteran · Israel.
 
+**Open to junior and student roles — available full-time.**
+
 ## What I build
 
 | Project | What it does | Stack | Links |
